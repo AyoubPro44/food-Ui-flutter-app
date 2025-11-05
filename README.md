@@ -6,14 +6,13 @@ A sleek and responsive food‑ordering UI built with Flutter, ideal for Android 
 1. [Overview](#overview)  
 2. [Features](#features)  
 3. [Technology Stack](#technology-stack)  
-4. [Screenshots](#screenshots)  
-5. [Installation & Setup](#installation-and-setup)  
-6. [Usage](#usage)  
-7. [Project Structure](#project-structure)  
-8. [Customization](#customization)  
-9. [Contribution](#contribution)  
-10. [License](#license)  
-11. [Contact](#contact)  
+4. [Installation & Setup](#installation-and-setup)  
+5. [Usage](#usage)  
+6. [Project Structure](#project-structure)  
+7. [Customization](#customization)  
+8. [Contribution](#contribution)  
+9. [License](#license)  
+10. [Contact](#contact)  
 
 ## Overview  
 This project demonstrates a beautiful and intuitive food ordering UI built with Flutter. It focuses on providing a high‑quality frontend design with smooth animations, rich components and mobile‑first responsiveness. This UI can act as a template or starter kit for food‑delivery, restaurant or recipe‑based mobile apps.
@@ -33,14 +32,6 @@ This project demonstrates a beautiful and intuitive food ordering UI built with 
 - UI & layout: Flutter widgets, custom theming, animations  
 - Optional: state management (Provider, Riverpod, Bloc) – to be adopted by the developer  
 - Dependency management: `pubspec.yaml`
-
-## Screenshots  
-*Include 3‑5 screenshot previews here of the app UI (home screen, details screen, cart screen, etc.)*  
-```  
-![Screenshot Home](link_to_image)  
-![Screenshot Details](link_to_image)  
-![Screenshot Cart](link_to_image)  
-```  
 
 ## Installation & Setup  
 1. Clone the repository:  
